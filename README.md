@@ -16,7 +16,7 @@
 
 <div align="center">
 
-![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/vesno4null/vesno4null/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/vesno4null/vesno4null/output/dist/github-contribution-grid-snake.svg)
 
 </div>
 
