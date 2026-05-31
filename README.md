@@ -12,8 +12,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
 ![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/vesno4null/vesno4null/output/dist/github-contribution-grid-snake.svg)
@@ -28,21 +26,12 @@ I'm a developer dedicated to writing clean, efficient code and building meaningf
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Languages](https://img.shields.io/badge/Passionate%20About-Code%20Quality-brightgreen?style=for-the-badge)
-
-</div>
-
 ### Languages & Tools
 ```
 🔧 Always expanding my toolkit
 📚 Continuous learner
 🎯 Problem solver
 ```
-
 ---
 
 ## 📊 GitHub Stats
@@ -85,5 +74,9 @@ Feel free to reach out if you want to:
 ### ⭐ If you find my work interesting, feel free to star some repos!
 
 *Happy coding! 💻*
+
+### The penguin's lair is here
+
+![SHEFOS 320KG](https://github.com/vesno4null/vesno4null/blob/main/SqWGcKYyKgQPPNs-800x450-noPad.webp)
 
 </div>
