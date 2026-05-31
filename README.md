@@ -12,9 +12,19 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![GitHub Contribution Grid Snake Animation](https://github.com/vesno4null/vesno4null/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
 ## 💫 About Me
 
-I'm a developer dedicated to writing clean, efficient code and building meaningful projects. I love exploring new technologies, solving complex problems, and contributing to open-source communities.
+I'm a developer dedicated to writing clean, efficient code and building meaningful projects. I love exploring new technologies, solving complex problems, and contributing to open-source communities!
 
 ---
 
